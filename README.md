@@ -1,4 +1,22 @@
-# Academic System DevSpirit
+# Academic System · DevSpirit
+
+**Archivo visual y documental del sistema académico DevSpirit: alumnos, pagos, calificaciones y seguimiento académico.**
+
+[![Repositorio](https://img.shields.io/badge/GitHub-GermanBartoli-181717?logo=github)](https://github.com/GermanBartoli/Academic-System-DevSpirit)
+
+[Empezar](#primeros-pasos) · [Mapa del repositorio](#mapa-del-repositorio) · [Autoría](#autoría-de-esta-documentación)
+
+![Guía visual: Academic System · DevSpirit](docs/readme/guia.svg)
+
+*Esquema de orientación; no representa una captura de la aplicación.*
+
+## Primeros pasos
+
+1. Recorré las imágenes por módulo en `Images/`.
+2. Usá las capturas y la descripción original para conocer el flujo de alumnos, pagos y calificaciones.
+3. Este repositorio es material de presentación: no contiene una solución ejecutable que permita instalar el sistema completo.
+
+## Referencia y detalles
 
 <!---
 ![Descripción Proyecto](https://user-images.githubusercontent.com/53313625/189393789-e9ea247d-53b5-42ca-958c-cb06badc9de4.png)
@@ -19,13 +37,11 @@ https://devspirit.net/
 
 ## Project
 
-
 <!--
 ![Descripción Proyecto](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Descripci%C3%B3n%20Proyecto.png)
 -->
 
 ![Descripción Proyecto](https://user-images.githubusercontent.com/53313625/206353813-f6cb466c-d4eb-4ebc-87bd-fd26e4ec567b.png)
-
 
 ## Images
 
@@ -38,7 +54,6 @@ https://devspirit.net/
 
 [![Login](https://drive.google.com/uc?export=view&id=1tpV6iV4zfAT_ehMyxp0oEIgkV-XouSEw)](https://drive.google.com/file/d/1tpV6iV4zfAT_ehMyxp0oEIgkV-XouSEw/view?usp=sharing)
 -->
-
 
 <!---
 ![Login](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Images/Login.png)
@@ -150,7 +165,7 @@ https://devspirit.net/
 
 ![Login](https://user-images.githubusercontent.com/53313625/206354159-d04b90d9-042d-4ce0-9ba9-97b191ed4ccb.png)
 
-## Toggl Track 
+## Toggl Track
 
 - [Toggl Track Summary](https://drive.google.com/file/d/1JRB4a-izmz_1bP_OVSq6M2oV2XKD5Ntu/view?usp=share_link) - Toggl_Track_summary_report_2022-01-07_2022-04-14.pdf
 
@@ -159,7 +174,6 @@ https://devspirit.net/
 - [Toggl Track Detailed](https://drive.google.com/file/d/1Rb9JZUdeyVaG5p06UIrf7MoPtPxjYXCK/view?usp=share_link) - Toggl_Track_detailed_report_2022-01-07_2022-04-11.pdf
 
 [![Toggl_Track_detailed_report_2022-01-07_2022-04-11.pdf](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Toggl%20Track/Toggl_Track_detailed_report_2022-01-07_2022-04-11.png?raw=true)](https://drive.google.com/file/d/1Rb9JZUdeyVaG5p06UIrf7MoPtPxjYXCK/view?usp=share_link)
-
 
 <!--
 - [Toggl Track Summary](https://github.com/bartoligerman497/Academic-System-DevSpirit/blob/main/Toggl%20Track/Toggl_Track_summary_report_2022-01-07_2022-04-14.pdf) - Toggl_Track_summary_report_2022-01-07_2022-04-14.pdf
@@ -174,9 +188,18 @@ https://devspirit.net/
 
 ## Members
 
-- Emmanuel Ayala - [LinkedIn](https://www.linkedin.com/in/emmanuel-alejandro-ayala/) 
-- Jonathan Merlino - [LinkedIn](https://www.linkedin.com/in/jonathan-merlino/) 
-- German Bartoli - [LinkedIn](https://www.linkedin.com/in/bartoligerman497/) 
+- Emmanuel Ayala - [LinkedIn](https://www.linkedin.com/in/emmanuel-alejandro-ayala/)
+- Jonathan Merlino - [LinkedIn](https://www.linkedin.com/in/jonathan-merlino/)
+- German Bartoli - [LinkedIn](https://www.linkedin.com/in/bartoligerman497/)
 
 > © 2022 DevSpirit - SistemaSanIgnacio. All rights reserved. My commits are in the DevSpirit Organization repository.
 
+## Mapa del repositorio
+
+La rama contiene documentación. No hay una aplicación para instalar.
+
+## Autoría de esta documentación
+
+Repositorio mantenido por [Germán Bartoli](https://github.com/GermanBartoli). Guía revisada y actualizada con **Codex**, coautor de esta actualización documental. Los autores, colaboradores, licencias y recursos de terceros conservan sus créditos originales.
+
+Los commits de esta revisión incluyen `Co-authored-by: Codex <noreply@openai.com>`; esta atribución no modifica la autoría del historial anterior.
